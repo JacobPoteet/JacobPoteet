@@ -7,8 +7,8 @@ Senior Technical Designer
 I'm a lifelong gamer and computer enthusiast who found their calling as a Technical Designer. I thrive in the digital playground, merging my passion for gaming with technical expertise to sculpt immersive worlds. Crafting experiences where innovation meets pixels is my forte.
 
 * 🌍  I'm based in Pittsburgh, PA
-* 🖥️  See my portfolio at [this repo](http://https://github.com/JacobPoteet/Portfolio)
-* 🚀  I'm currently working on [WIN Reality](http://https://winreality.com/)
+* 🖥️  See my portfolio at [this repo](https://github.com/JacobPoteet/Portfolio)
+* 🚀  I'm currently working on [WIN Reality](https://winreality.com/)
 * 🤝  I'm open to collaborating on Unity and Unreal Engine projects
 
 ### Skills

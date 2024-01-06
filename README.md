@@ -8,7 +8,7 @@ I'm a lifelong gamer and computer enthusiast who found their calling as a Techni
 
 * 🌍  I'm based in Pittsburgh, PA
 * 🖥️  See my portfolio at [this repo](https://github.com/JacobPoteet/Portfolio)
-* 📃  Read my resume [here](https://read.cv/poteet)
+* 📃  Read my [resume](https://read.cv/poteet)
 * 🚀  I'm currently working on [WIN Reality](https://winreality.com/)
 * 🤝  I'm open to collaborating on Unity and Unreal Engine projects
 

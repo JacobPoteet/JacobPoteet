@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacob Poteet
 ====================================================================================================================================
 
-Senior Technical Designer
+Senior Technical Narrative Designer
 -------------------------
 
-I'm a lifelong gamer and computer enthusiast who found their calling as a Technical Designer. I thrive in the digital playground, merging my passion for gaming with technical expertise to sculpt immersive worlds. Crafting experiences where innovation meets pixels is my forte.
+I'm a lifelong gamer and computer enthusiast who found his calling as a Technical Designer. I thrive in technology where I can merging my passion for gaming with technical expertise to express myself and share ideas.
 
 * 🌍  I'm based in Pittsburgh, PA
 * 🖥️  See my portfolio at [this repo](https://github.com/JacobPoteet/Portfolio)
 * 📃  Read my resume on [read.cv](https://read.cv/poteet)
-* 🚀  I'm currently working on [WIN Reality](https://winreality.com/)
+* 🚀  I'm currently working on [JUDAS](https://www.ghoststorygames.com/games/judas)
 * 🤝  I'm open to collaborating on Unity and Unreal Engine projects
 
 ### Skills

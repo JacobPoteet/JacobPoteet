@@ -1,44 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jacob Poteet
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Jacob Poteet
 ====================================================================================================================================
 
-Senior Technical Narrative Designer
--------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Senior+Technical+Narrative+Designer;Unity+%26+Unreal+Engine+Developer;Lifelong+Gamer+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
-I'm a lifelong gamer and computer enthusiast who found his calling as a Technical Designer. I thrive in technology where I can merging my passion for gaming with technical expertise to express myself and share ideas.
+I'm a lifelong gamer and computer enthusiast who found his calling as a Technical Designer. I thrive in technology where I can merge my passion for gaming with technical expertise to express myself and share ideas.
 
-* 🌍  I'm based in Pittsburgh, PA
-* 🖥️  See my portfolio at [this repo](https://github.com/JacobPoteet/Portfolio)
-* 📃  Read my resume on [read.cv](https://read.cv/poteet)
-* 🚀  I'm currently working on [JUDAS](https://www.judasthegame.com/)
-* 🤝  I'm open to collaborating on Unity and Unreal Engine projects
+* 🌍  I'm based in Pittsburgh, PA
+* 🖥️  See my portfolio at [this repo](https://github.com/JacobPoteet/Portfolio)
+* 🚀  I'm currently working on [JUDAS](https://www.judasthegame.com/)
+* 🤝  I'm open to collaborating on Unity and Unreal Engine projects
 
 ### Skills
 
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity badge" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal engine badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="visual studio badge" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="blender badge" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git badge" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop badge" />
 </div>
 
 ### Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacobpoteet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacobpoteet&theme=dark&hide_border=false" height="150" alt="streak stats" />
 </div>

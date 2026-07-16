@@ -3,18 +3,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&color=36BCF7FF&vCenter=true&width=600&lines=Senior+Technical+Narrative+Designer)](https://git.io/typing-svg)
 
-I'm a lifelong gamer and computer enthusiast who found his calling as a Technical Designer. I thrive in technology where I can merge my passion for gaming with technical expertise to express myself and share ideas.
+I'm a lifelong gamer and computer enthusiast who found his calling as a Technical Designer. I love working on projects that explore creative ideas and new ways to bring them to life.
 
 * 🌍  I'm based in Pittsburgh, PA
 * 🖥️  See my portfolio at [this repo](https://github.com/JacobPoteet/Portfolio)
 * 🚀  I'm currently working on [JUDAS](https://www.judasthegame.com/)
-* 🤝  I'm open to collaborating on Unity and Unreal Engine projects
+* 🤝  I'm open to collaborating on Unreal Engine and Unity projects
 
 ### Skills
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity badge" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal engine badge" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity badge" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus badge" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp badge" />
   <br/>

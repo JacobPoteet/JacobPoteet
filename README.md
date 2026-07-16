@@ -30,6 +30,5 @@ I'm a lifelong gamer and computer enthusiast who found his calling as a Technica
 ### Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacobpoteet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacobpoteet&theme=dark&hide_border=false" height="150" alt="streak stats" />
 </div>

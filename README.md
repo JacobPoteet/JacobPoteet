@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Jacob Poteet
 ====================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Senior+Technical+Narrative+Designer;Unity+%26+Unreal+Engine+Developer;Lifelong+Gamer+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&color=36BCF7FF&vCenter=true&width=600&lines=Senior+Technical+Narrative+Designer)](https://git.io/typing-svg)
 
 I'm a lifelong gamer and computer enthusiast who found his calling as a Technical Designer. I thrive in technology where I can merge my passion for gaming with technical expertise to express myself and share ideas.
 

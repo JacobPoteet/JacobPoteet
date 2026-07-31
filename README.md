@@ -6,7 +6,7 @@
 I'm a lifelong gamer and computer enthusiast who found his calling as a Technical Designer. I love working on projects that explore creative ideas and new ways to bring them to life.
 
 * 🌍  I'm based in Pittsburgh, PA
-* 🖥️  See my portfolio at [this repo](https://github.com/JacobPoteet/Portfolio)
+* 🖥️  See my portfolio [here]([https://github.com/JacobPoteet/Portfolio](https://jacobpoteet.github.io/Portfolio/))
 * 🚀  I'm currently working on [JUDAS](https://www.judasthegame.com/)
 * 🤝  I'm open to collaborating on Unreal Engine and Unity projects
 
